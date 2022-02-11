@@ -9,6 +9,10 @@
       align-items: center;
       justify-content: space-between;
     }
+   
+   .header{
+      padding-bottom: 18px;
+    }
 
     .logo-desktop{
       display: none;
@@ -317,7 +321,7 @@
 
     
     .conteiner-1162{
-      max-width: 348px;
+      max-width: 325px;
       display: flex;
       flex-direction: column;
       align-items: flex-start;
