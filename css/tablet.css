@@ -1,0 +1,386 @@
+@media only screen and (max-width:1024px){
+   .container-1218{
+      max-width: 686px;
+      margin: 0 auto;
+    }
+
+    .logo-desktop{
+      display: none;
+    }
+
+    .logo-mobail{
+      display: none;
+    }
+
+    .logo-tablet{
+      display: block;
+      width: 129px;
+      height: 37px;
+    }
+
+    .logo768{
+      width: 129px;
+      height: 37px;
+    }
+
+    .nav{
+      margin-right: 60px;
+      width: 470px;
+      
+    }
+
+    .nav-mob{
+      display: none;
+    }
+
+    .link-item{
+      margin-left: 37px;
+      
+    }
+
+    .link{
+      font-weight: 500;
+      font-size: 10px;
+      line-height: 13px;
+      letter-spacing: 0.16em;
+      white-space: nowrap;
+    }
+
+    .btn-login{
+      flex-shrink: 0; 
+      font-weight: 500;
+      font-size: 10px;
+      line-height: 29px;
+      width: 105px;
+      height: 32px;  
+      margin-left: 28px;
+    }
+
+    /* header end */
+    /* main start */
+    .hero{
+      background-color: #F5F8FF;
+      margin-bottom: 27px;
+      background-image: url(../img/BOX768.png);
+      background-repeat: no-repeat, no-repeat;
+      background-position: top 57px left 103%;
+    }
+
+    
+    
+    .main{
+      max-width: 686px;
+      margin: 0 auto;
+      padding-top: 18px;
+      padding-bottom: 189px;
+    }
+
+    .main-name{
+      padding-left: 24px;
+      max-width: 492px;
+      font-size: 42px;
+      line-height: 48px;
+    }
+
+    .main-text{
+      padding-left: 24px;
+      max-width: 362px;
+      font-size: 14px;
+      line-height: 18px;
+    }
+
+    .btn-singup{
+      width: 161px;
+      height: 49px;
+      font-size: 14px;
+      line-height: 40px;
+      letter-spacing: 0.12em;
+    }
+  
+    /* main end */
+    /* plans start */
+
+    .container-1270{
+      max-width: 676px;
+      margin: 0 auto;
+      margin-bottom: 87px;
+    }
+
+    .plans-heading{
+      font-size: 42px;
+      line-height: 48px;
+    }
+
+    .plans-heading::after{
+      content: url(../img/underline768.svg);
+      position: absolute;
+      left: 50%;
+      top: 30px;
+      transform: translateX(-50%);
+    }
+
+    .plans-row{
+      margin-bottom: 22.42px;
+    }
+
+    .plan{
+      width: 306px;
+      height: 155px;
+    }
+
+    .plan-left{
+      background-image: url(../img/plan1-786.png);
+      background-repeat: no-repeat;
+    }
+    
+    .plan-rigt{
+      background-image: url(../img/plan2-786.png);
+      background-repeat: no-repeat;
+    }
+
+    .plan-name{
+      font-size: 20px;
+      line-height: 27px;
+    }
+
+    .plan-price{
+      font-size: 24px;
+      line-height: 51px;
+      margin-bottom: 6px;
+    }
+
+    .btn-solid{
+      width: 106.3px;
+      height: 32.42px;
+      font-size: 8px;
+      line-height: 24px;
+    }
+
+    .plans-bot{
+      font-size: 14px;
+      line-height: 18px;
+      margin: 0;
+      padding: 0;
+    }
+
+    /* plans end */
+
+    /* works start */
+
+    .container-1026{
+      margin-bottom: 86px;
+    }
+
+    .works-heading{
+      font-size: 42px;
+      line-height: 56px;
+      margin: 0 0 110px 0;
+    }
+
+    .works-heading::after{
+      content: url(../img/underline-768.png);
+      position: absolute;
+      left: 50%;
+      top: 30px;
+      transform: translateX(-50%);
+    }
+
+    .setup{
+      margin-bottom: 435px;
+    }
+
+    .feature-11 {
+      max-width: 258px;
+      height: 325px;
+      z-index: 1;
+      position: absolute;
+      left: 6%;
+      top: -33%;
+    }
+
+    .feature-12{
+      left: -23%;
+      top: -40%;
+    }
+
+    .feature-number{
+      left: 8%;
+      top: -129%;
+    }
+
+      .title{
+        font-size: 32px;
+        line-height: 36px;
+        margin-right: 60px;
+        margin-bottom: 26px;
+      }
+
+      .subtitle{
+        font-size: 14px;
+        line-height: 18px;
+        margin-right: 60px;
+      }
+      
+      .setup2{
+        margin-bottom: 101px;
+      }
+      
+      .feature21{
+        left: 0%;
+        top: -200%;
+      }
+
+      .feature22{
+        width: 134.46px;
+        height: 114.59px;
+        left: 15.3%;
+        top: -106%;
+      }
+
+      .feature23{
+        left: 46%;
+        top: -159%;
+      }
+
+      .feature-number2{
+        left: 24%;
+        top: -143%;
+      }
+
+      .title2{
+        font-size: 32px;
+        line-height: 36px;
+        margin-right: 260px;
+        margin-bottom: 26px;
+      }
+
+      .subtitle2{
+        font-size: 14px;
+        line-height: 18px;
+       margin-right: 70px;
+      }
+
+      .setup3{
+        margin-bottom: 205px;
+      }
+
+      .feature31{
+        width: 230px;
+        height: 288px;
+        left: 1%;
+        top: -6%;
+      }
+
+      .feature32{
+        left: 20.6%;
+        top: 104%;
+        width: 134px;
+      }
+      
+
+      .feature-number3{
+        left: 0%;
+        top: -122%;
+      }
+
+      .title3{
+        font-size: 32px;
+        line-height: 36px;
+        margin-right: 266px;
+        margin-bottom: 26px;
+      }
+
+      .subtitle3{
+        font-size: 14px;
+        line-height: 18px;
+        margin: 0;
+        padding: 0;
+        margin-right: 60px;
+        
+      }
+
+      .btn-main{
+        font-size: 16px;
+        line-height: 44px;
+        width: 256px;
+        height: 48px;
+        margin-left: 35%;
+      }
+
+      /* end */
+
+      /* start */
+
+      .post{
+        background-position: top 359px left 6%, top 904px left 72%;
+        margin-bottom: 41px;
+      }
+
+      .list{
+        flex-wrap: wrap;
+      }
+      
+      .lists{
+        max-width: 48%;
+      }
+
+      .post-text{
+        font-size: 20px;
+        line-height: 26px;
+        height: 119px;
+      }
+
+      .insta{
+        width: 320px;
+        height: 61px;
+        font-size: 16px;
+        line-height: 57px;
+        text-align: center;
+        margin-left: 30%;
+      }
+
+      /* end */
+
+      /* footer start */
+
+      .container-1381{
+        max-width: 688px;
+        height: 721px;
+        flex-wrap: wrap;
+      }
+
+      .conteiner-1162{
+        flex-wrap: wrap;
+        max-width: 410px;
+        white-space: nowrap;
+      }
+
+      .link1162{
+        max-width: 50%;
+      }
+
+      .pading_left{
+        margin-right: 35px;
+      }
+      
+      .p{
+        justify-content: flex-start;
+        margin-bottom: 40px;
+      }
+      
+      .p-text{
+        margin-left: 62px;
+      }
+     
+      .p-text_footer{
+        display: inline-block;
+        font-family: "DM Sans", sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        width: 549px;
+        font-size: 14px;
+        line-height: 18px;
+        letter-spacing: 0.12em;
+        margin-left: 62px;
+      }
+}
